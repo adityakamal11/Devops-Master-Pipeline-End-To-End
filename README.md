@@ -6,7 +6,7 @@ This repository contains an advanced end-to-end DevOps project that integrates v
 
 ![ArchitectureDiagram](Screenshots/Architecture.png)
 
-## WebApp Overview o
+## WebApp Overview
 
 - We are going to deploy below game app on the K8s cluster.
 ![Snake Game Webapp](Screenshots/webapp.png)
